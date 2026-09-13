@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot-bridge",
+  "version": "1.0.0",
+  "description": "Discord bot with two-way bridge communication",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "20"
+  }
+}
+
